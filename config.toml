@@ -2,6 +2,7 @@ title = "中正資工 機器視覺與學習實驗室"
 baseURL = "https://ccumvllab.github.io/107-MM"
 languageCode = "en-us"
 theme = ""
+publishDir = "docs"
 
 
 MetaDataFormat = "yaml"
