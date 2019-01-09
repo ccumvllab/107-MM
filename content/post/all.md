@@ -1,10 +1,13 @@
 +++
-title =  "ALL VIDEO"
+title =  "ALL VIDEOS"
 date = 2019-01-09T03:59:27+08:00
 tags = []
 featured_image = ""
 description = ""
 +++
+
+<!--more-->
+
 405410023	陳冠吟<br>	https://youtu.be/MHM6E6PuRGE<br>	https://youtu.be/F4wYhKmETIQ<br>	https://youtu.be/iR7YuH4GD90<br>
 402410055	吳俊漢<br>
 https://youtu.be/feYvMNgR8_0<br>https://youtu.be/wuKyv6Lw-SE<br>

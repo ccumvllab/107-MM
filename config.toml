@@ -5,7 +5,7 @@ theme = ""
 publishDir = "docs"
 
 
-MetaDataFormat = "yaml"
+MetaDataFormat = "toml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -23,7 +23,7 @@ enableRobotsTXT = true
   facebook = ""
   twitter = ""
   instagram = ""
-  youtube = "https://www.youtube.com/?gl=TW&hl=zh-tw"
+  youtube = ""
   github = ""
   gitlab = ""
   linkedin = ""
